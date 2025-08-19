@@ -1,0 +1,10 @@
+{
+  "RPC_URL": "https://testnet.rpc.intuition.systems/http",
+  "DEST": "", 
+  "TX_MIN_PER_DAY": 3,
+  "TX_MAX_PER_DAY": 6,
+  "DELAY_MIN_SEC": 60,
+  "DELAY_MAX_SEC": 180,
+  "AMOUNT_MIN": "0.0001",
+  "AMOUNT_MAX": "0.001"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "eth-sepolia-bot",
+  "version": "1.0.0",
+  "description": "Automated ETH transfer bot for Sepolia testnet with config.json and .env support",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.15.0"
+  }
+}
