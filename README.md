@@ -2,7 +2,7 @@
 
 # Intuition-Testnet-Auto-BOT
 
- automation bot designed for interacting with the Intuition  Bridge Testnet.
+ automation bot designed for interacting with the Intuition  Bridge Testnet
 ## Features
 
 * **Automated Interaction**: Automates interactions with the Intuition Testnet.
